@@ -408,6 +408,10 @@ body, html {
     top: -.2rem
 }
 
+.games__comment-complain:hover {
+    text-decoration: underline;
+}
+
 .header {
     padding: 2.3rem 0 2.2rem
 }
