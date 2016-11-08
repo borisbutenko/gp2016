@@ -122,7 +122,8 @@ body, html {
 }
 
 .games__item {
-    margin-bottom: 3rem
+    margin-bottom: 3rem;
+    background-size: 100% !important;
 }
 
 .games__transparency {
