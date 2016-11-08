@@ -127,7 +127,7 @@ body, html {
 }
 
 .games__transparency {
-    min-height: 23.3rem;
+    height: 23.3rem;
     cursor: pointer;
     text-align: center;
     position: absolute;
@@ -156,7 +156,7 @@ body, html {
 
 .games__container {
     max-width: 90%;
-    max-height: 23.2rem;
+    height: 23.2rem;
     color: #fff;
     padding-top: 3.2rem
 }
