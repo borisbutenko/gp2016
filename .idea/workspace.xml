@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0591b7-5964-45b6-877c-3064457e0781" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/asd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/asd.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/fonts.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/main.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/normalize.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/test.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/geometria-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/geometria-bold-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/body__background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/body__background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/comment__logo-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/comment__logo-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/comment__logo-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/comment__logo-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/comment__logo-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/footer__logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__item-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__item-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__item-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/game__review.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/games__complain-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/games__transparency.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/header__logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/header__user-nologin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/input__loupe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__raiting-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__slider-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__slider-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__slider-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__slider-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/main__slider-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__large-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__logo-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__logo-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__logo-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__logo-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__logo-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__score-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rating__score-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/social__fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/social__ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/social__vk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/sort__newpost.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/user__logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/libs/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/libs/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/libs/swiper.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,8 +99,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="18">
+              <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -274,7 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gameportal2016" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
@@ -288,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478622604586</updated>
-      <workItem from="1478622608040" duration="53000" />
+      <workItem from="1478622608040" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53000" />
+    <option name="totallyTimeSpent" value="1276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="24" width="1863" height="1056" extended-state="6" />
@@ -305,7 +245,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -404,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="18">
+          <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
           <folding />
         </state>
       </provider>
